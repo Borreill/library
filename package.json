@@ -21,6 +21,7 @@
     "@angular/router": "~10.2.0",
     "bootstrap": "^3.3.7",
     "bootstrapp": "0.0.0",
+    "firebase": "^8.0.2",
     "rxjs": "~6.6.0",
     "rxjs-compat": "^6.6.3",
     "tslib": "^2.0.0",
